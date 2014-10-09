@@ -1,0 +1,4 @@
+This is the password file
+There is nothing interesting in it
+But nonetheless it is something that a secure version of the echo server should never send out
+Your job is to modify the client code so that you download it remotely from the server

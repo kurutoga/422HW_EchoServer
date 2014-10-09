@@ -1,0 +1,2 @@
+Welcome to the Echo Server
+This is a simple server that just sends back the messages you send to it
